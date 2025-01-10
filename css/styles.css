@@ -349,3 +349,10 @@ img {
   color: #f4f4fd;
   margin-bottom: 16px;
 }
+.footer-title {
+  color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  width: 264px;
+}
